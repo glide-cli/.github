@@ -41,7 +41,7 @@ $ glide test
 
 ```bash
 # Install Glide (coming soon to Homebrew)
-go install github.com/glide-cli/glide/v3/cmd/glide@latest
+go install github.com/glide-cli/glide/v4/cmd/glide@latest
 
 # See available commands in your project
 glide help
